@@ -1,0 +1,11 @@
+{
+    "name": "AudioClient-api",
+    "main": "app.js",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "cors": "2.8.1",
+        "express": "^4.16.4",
+        "is-online": "^7.0.0",
+        "onoff": "^3.2.2"
+    }
+}

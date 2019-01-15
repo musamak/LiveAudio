@@ -10,6 +10,9 @@ BinaryJs
 Installing VSCode on ARM Raspberry Pi
 https://www.raspberrypi.org/forums/viewtopic.php?t=191342
 
+Backup your sd card for quick restore (DR)
+https://raspberrypihq.com/how-to-backup-your-raspberry-pi/
+
 
 
 

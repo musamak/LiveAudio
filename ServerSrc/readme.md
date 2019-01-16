@@ -1,4 +1,6 @@
-
+Install Firewall (ufw)
+sudo apt-get install ufw
+sudo ufw allow 2512
 
 Autostart Settings for Raspbian:
 $ sudo nano /home/pi/.config/lxsession/LXDE-pi/autostart

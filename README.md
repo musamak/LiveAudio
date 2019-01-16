@@ -7,6 +7,9 @@ Requirements:
 Nodejs ver.8 https://nodejs.org/dist/latest-v8.x/node-v8.15.0-linux-armv7l.tar.xz
 BinaryJs
 
+ARM Nodejs Installation Guide:
+https://jackstromberg.com/2018/06/how-to-install-nodejs-on-a-raspberry-pi/
+
 Installing VSCode on ARM Raspberry Pi
 https://www.raspberrypi.org/forums/viewtopic.php?t=191342
 
